@@ -1,0 +1,11 @@
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\bin\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.deps.json
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\bin\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.runtimeconfig.json
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\bin\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.runtimeconfig.dev.json
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\bin\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.dll
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\obj\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.csprojAssemblyReference.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\obj\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\obj\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.AssemblyInfoInputs.cache
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\obj\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.AssemblyInfo.cs
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\bin\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.pdb
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\obj\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.dll
+C:\Users\Kadir\Documents\Visual Studio 2017\Projects\ResimGaleri\ResimGaleri.CoreMvcUI\obj\Debug\netcoreapp2.0\ResimGaleri.CoreMvcUI.pdb
